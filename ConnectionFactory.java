@@ -23,7 +23,7 @@ public class ConnectionFactory {
     private static final String IP = "localhost";
     private static final String DATABASE = "Biblioteca";
     private static final String USER = "postgres";
-    private static final String PASS = "3247dsr";
+    private static final String PASS = "090909";
     
     public static Connection getConnection(){
         try {
